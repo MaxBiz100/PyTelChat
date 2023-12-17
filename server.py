@@ -1,5 +1,6 @@
 # This code is under the MAX license
 # PyTelChat Chat Server 1.0
+# YOU MUST CHANGE THE PORT NUMBER WHENEVER YOU END THE SERVER! ON LINE 34!
 import socket
 import threading
 
